@@ -1,17 +1,17 @@
 {
-  "name": "UwemDev",
-  "description": "I am UwemDev Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : Whatsapp Me ",
+  "name": "TITAN-MD",
+  "description": "I am TITAN-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : Whatsapp Me ",
  "logo":"https://i.ibb.co/w6ss4st/photo-2024-04-19-10-02-19.jpg",
  
   "old__logo": "https://avatars.githubusercontent.com/u/61190279?v=4",
-  "keywords": ["whatsappbot", "UwemDev", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "TITAN-MD", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "★彡UwemDev彡★",
+      "value": "★彡TITAN-MD彡★",
       "required" :true
     },   
      
@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "UwemDev "
+      "value": "TITAN-MD "
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348110572387"
+      "value": "2349121612253"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
